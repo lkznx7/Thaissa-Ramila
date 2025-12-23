@@ -34,10 +34,10 @@ const Header = () => {
           {/* Logo */}
           <a href="#" className="flex flex-col">
             <span className="text-lg font-serif font-semibold text-foreground">
-              Dra. Ana Carolina
+              Dra. Thaissa Ramila 
             </span>
             <span className="text-xs text-muted-foreground">
-              Psicóloga • CRP 06/123456
+              Psicóloga • CRP 01/123456
             </span>
           </a>
 

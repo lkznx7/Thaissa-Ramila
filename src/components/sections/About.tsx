@@ -5,7 +5,7 @@ const About = () => {
     {
       icon: GraduationCap,
       title: "Formação",
-      description: "Graduação em Psicologia pela USP. Especialização em Terapia Cognitivo-Comportamental."
+      description: "Graduação em Psicologia pela faculdade. Especialização em Terapia Cognitivo-Comportamental."
     },
     {
       icon: Heart,

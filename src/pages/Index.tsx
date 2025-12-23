@@ -11,13 +11,13 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Dra. Ana Carolina Silva | Psicóloga Clínica em São Paulo - CRP 06/123456</title>
+        <title>Dra. Thaissa Ramila | Psicóloga Clínica em Luziânia - CRP 01/123456</title>
         <meta 
           name="description" 
-          content="Psicóloga clínica em São Paulo. Atendimento presencial e online. Psicoterapia individual, terapia de casal e orientação familiar. Agende sua consulta." 
+          content="Psicóloga clínica em Luziânia. Atendimento online. Psicoterapia individual . Agende sua consulta." 
         />
         <meta name="keywords" content="psicóloga São Paulo, psicoterapia, terapia online, saúde mental, psicóloga clínica" />
-        <link rel="canonical" href="https://www.draanacarolina.com.br" />
+        <link rel="canonical" href="https://www.drathaissaramila.com.br" />
       </Helmet>
       
       <div className="min-h-screen bg-background">

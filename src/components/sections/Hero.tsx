@@ -17,7 +17,7 @@ const Hero = () => {
                 Psicóloga Clínica
               </span>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-semibold text-foreground leading-tight">
-                Dra. Ana Carolina Silva
+                Dra. Thaissa Ramila
               </h1>
               <p className="text-xl md:text-2xl text-muted-foreground font-serif italic">
                 Cuidando da sua saúde mental com acolhimento e ética
@@ -50,7 +50,7 @@ const Hero = () => {
             <div className="relative z-10">
               <img 
                 src={heroImage}
-                alt="Dra. Ana Carolina Silva - Psicóloga"
+                alt="Dra. Thaissa Ramila - Psicóloga"
                 className="w-full h-auto rounded-2xl shadow-hover object-cover aspect-[4/5]"
               />
             </div>

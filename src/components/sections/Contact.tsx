@@ -6,19 +6,19 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Endereço",
-      content: "Av. Paulista, 1000 - Sala 501",
-      subtitle: "Bela Vista, São Paulo - SP"
+      content: "luziania",
+      subtitle: "colocar endereço"
     },
     {
       icon: Phone,
       title: "Telefone",
-      content: "(11) 99999-9999",
+      content: "(61) 99999-9999",
       subtitle: "WhatsApp disponível"
     },
     {
       icon: Mail,
       title: "E-mail",
-      content: "contato@draanacarolina.com.br",
+      content: "contato@drathaissaramila.com.br",
       subtitle: "Resposta em até 24h"
     },
     {
